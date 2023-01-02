@@ -1,0 +1,1171 @@
+@article{mitchell2005time,
+  title={{A Time-Dependent Hamilton-Jacobi Formulation of Reachable Sets for Continuous Dynamic Games}},
+	author={Mitchell, Ian M and Bayen, Alexandre M and Tomlin, Claire J},
+	journal={IEEE Transactions on automatic control},
+	volume={50},
+	number={7},
+	pages={947--957},
+	year={2005},
+	publisher={IEEE}
+}
+
+@article{ames2016control,
+	title={{Control Barrier Function Based Quadratic Programs for Safety Critical Systems}},
+	author={Ames, Aaron D and Xu, Xiangru and Grizzle, Jessy W and Tabuada, Paulo},
+	journal={IEEE Transactions on Automatic Control},
+	volume={62},
+	number={8},
+	pages={3861--3876},
+	year={2016},
+	publisher={IEEE}
+}
+
+@article{liu2018adaptive,
+	title={{Adaptive Control-Based Barrier Lyapunov Functions for A Class of Stochastic Nonlinear Systems with Full State Constraints}},
+	author={Liu, Yan-Jun and Lu, Shumin and Tong, Shaocheng and Chen, Xinkai and Chen, CL Philip and Li, Dong-Juan},
+	journal={Automatica},
+	volume={87},
+	pages={83--93},
+	year={2018},
+	publisher={Elsevier}
+}
+
+@inproceedings{tobin2017domain,
+	title={{Domain Randomization for Transferring Deep Neural Networks From Simulation to the Real World}},
+	author={Tobin, Josh and Fong, Rachel and Ray, Alex and Schneider, Jonas and Zaremba, Wojciech and Abbeel, Pieter},
+	booktitle={2017 IEEE/RSJ international conference on intelligent robots and systems (IROS)},
+	pages={23--30},
+	year={2017},
+	organization={IEEE}
+}
+
+@inproceedings{shah2018airsim,
+	title={{Airsim: High-Fidelity Visual and Physical Simulation for Autonomous Vehicles}},
+	author={Shah, Shital and Dey, Debadeepta and Lovett, Chris and Kapoor, Ashish},
+	booktitle={Field and service robotics},
+	pages={621--635},
+	year={2018},
+	organization={Springer}
+}
+
+@inproceedings{dosovitskiy2017carla,
+	title={{CARLA: An Open Urban Driving Simulator}},
+	author={Dosovitskiy, Alexey and Ros, German and Codevilla, Felipe and Lopez, Antonio and Koltun, Vladlen},
+	booktitle={Conference on robot learning},
+	pages={1--16},
+	year={2017},
+	organization={PMLR}
+}
+
+@article{silver2016mastering,
+	title={{Mastering the Game of Go with Deep Neural Networks and Tree Search}},
+	author={Silver, David and Huang, Aja and Maddison, Chris J and Guez, Arthur and Sifre, Laurent and Van Den Driessche, George and Schrittwieser, Julian and Antonoglou, Ioannis and Panneershelvam, Veda and Lanctot, Marc and others},
+	journal={nature},
+	volume={529},
+	number={7587},
+	pages={484--489},
+	year={2016},
+	publisher={Nature Publishing Group}
+}
+
+@ARTICLE{hwangbo2019learning,
+	title={{Learning Agile and Dynamic Motor Skills for Legged Robots}},
+	author={Hwangbo, Jemin and Lee, Joonho and Dosovitskiy, Alexey and Bellicoso, Dario and Tsounis, Vassilios and Koltun, Vladlen and Hutter, Marco},
+	journal={Science Robotics},
+	volume={4},
+	number={26},
+	year={2019},
+	publisher={Science Robotics}
+}
+
+@article{recht2019tour,
+	title={{A Tour of Reinforcement Learning: The View From Continuous Control}},
+	author={Recht, Benjamin},
+	journal={Annual Review of Control, Robotics, and Autonomous Systems},
+	volume={2},
+	pages={253--279},
+	year={2019},
+	publisher={Annual Reviews}
+}
+
+@inproceedings{ames2019control,
+	title={{Control Barrier Functions: Theory and Applications}},
+	author={Ames, Aaron D and Coogan, Samuel and Egerstedt, Magnus and Notomista, Gennaro and Sreenath, Koushil and Tabuada, Paulo},
+	booktitle={2019 18th European Control Conference (ECC)},
+	pages={3420--3431},
+	year={2019},
+	organization={IEEE}
+}
+
+@article{luo2015reinforcement,
+	title={{Reinforcement Learning Solution for HJB Equation Arising in Constrained Optimal Control Problem}},
+	author={Luo, Biao and Wu, Huai-Ning and Huang, Tingwen and Liu, Derong},
+	journal={Neural Networks},
+	volume={71},
+	pages={150--158},
+	year={2015},
+	publisher={Elsevier}
+}
+
+@article{ren2018self,
+	title={{Self-Paced Prioritized Curriculum Learning with Coverage Penalty in Deep Reinforcement Learning}},
+	author={Ren, Zhipeng and Dong, Daoyi and Li, Huaxiong and Chen, Chunlin},
+	journal={IEEE transactions on neural networks and learning systems},
+	volume={29},
+	number={6},
+	pages={2216--2226},
+	year={2018},
+	publisher={IEEE}
+}
+
+@article{wills2004barrier,
+	title={{Barrier Function Based Model Predictive Control}},
+	author={Wills, Adrian G and Heath, William P},
+	journal={Automatica},
+	volume={40},
+	number={8},
+	pages={1415--1422},
+	year={2004},
+	publisher={Elsevier}
+}
+
+@article{liu2014multiobjective,
+	title={{Multiobjective Reinforcement Learning: A Comprehensive Overview}},
+	author={Liu, Chunming and Xu, Xin and Hu, Dewen},
+	journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems},
+	volume={45},
+	number={3},
+	pages={385--398},
+	year={2014},
+	publisher={IEEE}
+}
+
+@inproceedings{pinto2017robust,
+	title={{Robust Adversarial Reinforcement Learning}},
+	author={Pinto, Lerrel and Davidson, James and Sukthankar, Rahul and Gupta, Abhinav},
+	booktitle={International Conference on Machine Learning},
+	pages={2817--2826},
+	year={2017},
+	organization={PMLR}
+}
+
+@inproceedings{arndt2020meta,
+	title={{Meta Reinforcement Learning for Sim-To-Real Domain Adaptation}},
+	author={Arndt, Karol and Hazara, Murtaza and Ghadirzadeh, Ali and Kyrki, Ville},
+	booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)},
+	pages={2725--2731},
+	year={2020},
+	organization={IEEE}
+}
+
+@inproceedings{golemo2018sim,
+	title={{Sim-To-Real Transfer with Neural-Augmented Robot Simulation}},
+	author={Golemo, Florian and Taiga, Adrien Ali and Courville, Aaron and Oudeyer, Pierre-Yves},
+	booktitle={Conference on Robot Learning},
+	pages={817--828},
+	year={2018},
+	organization={PMLR}
+}
+
+@article{li2019formal,
+	title={{A Formal Methods Approach to Interpretable Reinforcement Learning for Robotic Planning}},
+	author={Li, Xiao and Serlin, Zachary and Yang, Guang and Belta, Calin},
+	journal={Science Robotics},
+	volume={4},
+	number={37},
+	year={2019},
+	publisher={Science Robotics}
+}
+
+@inproceedings{zhao2020sim,
+	title={{Sim-To-Real Transfer in Deep Reinforcement Learning for Robotics: A Survey}},
+	author={Zhao, Wenshuai and Queralta, Jorge Pe{\~n}a and Westerlund, Tomi},
+	booktitle={2020 IEEE Symposium Series on Computational Intelligence (SSCI)},
+	pages={737--744},
+	year={2020},
+	organization={IEEE}
+}
+
+@article{fisac2018general,
+	title={{A General Safety Framework for Learning-Based Control in Uncertain Robotic Systems}},
+	author={Fisac, Jaime F and Akametalu, Anayo K and Zeilinger, Melanie N and Kaynama, Shahab and Gillula, Jeremy and Tomlin, Claire J},
+	journal={IEEE Transactions on Automatic Control},
+	volume={64},
+	number={7},
+	pages={2737--2752},
+	year={2018},
+	publisher={IEEE}
+}
+
+@article{han2020actor,
+	title={{Actor-Critic Reinforcement Learning for Control with Stability Guarantee}},
+	author={Han, Minghao and Zhang, Lixian and Wang, Jun and Pan, Wei},
+	journal={IEEE Robotics and Automation Letters},
+	volume={5},
+	number={4},
+	pages={6217--6224},
+	year={2020},
+	publisher={IEEE}
+}
+
+@article{li2019data,
+	title={{Data-Driven Approximate Q-Learning Stabilization with Optimality Error Bound Analysis}},
+	author={Li, Yongqiang and Yang, Chengzan and Hou, Zhongsheng and Feng, Yuanjing and Yin, Chenkun},
+	journal={Automatica},
+	volume={103},
+	pages={435--442},
+	year={2019},
+	publisher={Elsevier}
+}
+
+@article{song2018sparse,
+	title={{Sparse Proximal Reinforcement Learning Via Nested Optimization}},
+	author={Song, Tianheng and Li, Dazi and Jin, Qibing and Hirasawa, Kotaro},
+	journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems},
+	volume={50},
+	number={11},
+	pages={4020--4032},
+	year={2018},
+	publisher={IEEE}
+}
+
+@article{tamar2016sequential,
+	title={{Sequential Decision Making with Coherent Risk}},
+	author={Tamar, Aviv and Chow, Yinlam and Ghavamzadeh, Mohammad and Mannor, Shie},
+	journal={IEEE Transactions on Automatic Control},
+	volume={62},
+	number={7},
+	pages={3323--3338},
+	year={2016},
+	publisher={IEEE}
+}
+
+@article{杨柳2015基于干扰观测器的四旋翼无人机轨迹跟踪鲁棒控制,
+	title={{基于干扰观测器的四旋翼无人机轨迹跟踪鲁棒控制}},
+	author={杨柳 and 刘金琨},
+	journal={飞行力学},
+	number={4},
+	pages={328--333},
+	year={2015},
+	language   ="zh"
+}
+
+@inproceedings{cortez2020correct,
+	title={{Correct-By-Design Control Barrier Functions for Euler-Lagrange Systems with Input Constraints}},
+	author={Cortez, Wenceslao Shaw and Dimarogonas, Dimos V},
+	booktitle={2020 American Control Conference (ACC)},
+	pages={950--955},
+	year={2020},
+	organization={IEEE}
+}
+
+@article{taylor2020control,
+	title={{A Control Barrier Perspective on Episodic Learning Via Projection-To-State Safety}},
+	author={Taylor, Andrew J and Singletary, Andrew and Yue, Yisong and Ames, Aaron D},
+	journal={IEEE Control Systems Letters},
+	volume={5},
+	number={3},
+	pages={1019--1024},
+	year={2020},
+	publisher={IEEE}
+}
+
+@article{xu2018reinforcement,
+	title={{A Reinforcement Learning Approach to Autonomous Decision Making of Intelligent Vehicles on Highways}},
+	author={Xu, Xin and Zuo, Lei and Li, Xin and Qian, Lilin and Ren, Junkai and Sun, Zhenping},
+	journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems},
+	volume={50},
+	number={10},
+	pages={3884--3897},
+	year={2018},
+	publisher={IEEE}
+}
+
+@inproceedings{qin2019sim,
+	title={{Sim-To-Real: Six-Legged Robot Control with Deep Reinforcement Learning and Curriculum Learning}},
+	author={Qin, Bangyu and Gao, Yue and Bai, Yi},
+	booktitle={2019 4th International Conference on Robotics and Automation Engineering (ICRAE)},
+	pages={1--5},
+	year={2019},
+	organization={IEEE}
+}
+
+@article{marvi2021safe,
+	title={{Safe Reinforcement Learning: A Control Barrier Function Optimization Approach}},
+	author={Marvi, Zahra and Kiumarsi, Bahare},
+	journal={International Journal of Robust and Nonlinear Control},
+	volume={31},
+	number={6},
+	pages={1923--1940},
+	year={2021},
+	publisher={Wiley Online Library}
+}
+
+@article{garcia2015comprehensive,
+	title={{A Comprehensive Survey on Safe Reinforcement Learning}},
+	author={Garc{\i}a, Javier and Fern{\'a}ndez, Fernando},
+	journal={Journal of Machine Learning Research},
+	volume={16},
+	number={1},
+	pages={1437--1480},
+	year={2015}
+}
+
+@article{郭雷2020无人机安全控制系统技术,
+	title={{无人机安全控制系统技术: 进展与展望}},
+	author={郭雷 and 余翔 and 张霄 and 张友民},
+	journal={Inform},
+	volume={50},
+	pages={184--194},
+	year={2020},
+	language   ="zh"
+}
+
+@article{许卓凡2020无人机认知防碰撞系统安全边界研究,
+	title={{无人机认知防碰撞系统安全边界研究}},
+	author={许卓凡 and 魏瑞轩 and 周凯 and 张启瑞},
+	journal={控制理论与应用},
+	volume={37},
+	number={4},
+	pages={776--783},
+	year={2020},
+	language   ="zh"
+}
+
+@article{cite_label1 ,
+	title={{机器人安全性研究现状及发展趋势}},
+	author={赵京 and 张自强 and 郑强 and 陈殿生 and 桂顺},
+	authoraddress={北京工业大学机械工程与应用电子技术学院;北京航空航天大学机械工程及自动化学院;},
+	journal={北京航空航天大学学报},
+	year={2018},
+	volume={44},
+	number={7},
+	pages={1347-1358},
+	keywords={机器人安全性;自身安全性;交互安全性;结构设计;柔顺控制},
+	abstract={随着机器人逐渐应用于生产生活的各个领域,安全性也成为了机器人研究的重要方向之一。根据安全性研究目标对象的不同,分别从机器人自身安全性和交互安全性两方面概述了国内外研究现状,分析了机械结构与控制算法对提高机器人安全性所起到的作用。在此基础上,分析了目前研究还存在结构设计过于传统、对突发情况判断能力较弱、复杂条件下控制柔顺性不足等问题,限制了机器人的推广应用。指出了机器人安全性的研究正向着刚柔混合一体化机构、准确快速的环境判断、良好的柔顺控制的方向发展。},
+	isbn/issn={1001-5965},
+	notes={11-2625/v},
+	databaseprovider={cnki},
+	language   ="zh"
+}
+
+@article{driessens2004integrating,
+	title={{Integrating Guidance Into Relational Reinforcement Learning}},
+	author={Driessens, Kurt and D{\v{z}}eroski, Sa{\v{s}}o},
+	journal={Machine Learning},
+	volume={57},
+	number={3},
+	pages={271--304},
+	year={2004},
+	publisher={Springer}
+}
+
+@article{xiong2021safety,
+	title={{Safety Robustness of Reinforcement Learning Policies: A View From Robust Control}},
+	author={Xiong, Hao and Diao, Xiumin},
+	journal={Neurocomputing},
+	volume={422},
+	pages={12--21},
+	year={2021},
+	publisher={Elsevier}
+}
+@article{haarnoja2018soft,
+	title={{Soft Actor-Critic Algorithms and Applications}},
+	author={Haarnoja, Tuomas and Zhou, Aurick and Hartikainen, Kristian and Tucker, George and Ha, Sehoon and Tan, Jie and Kumar, Vikash and Zhu, Henry and Gupta, Abhishek and Abbeel, Pieter and others},
+	journal={arXiv preprint arXiv:1812.05905},
+	year={2018}
+}
+@article{schulman2017proximal,
+	title={{Proximal Policy Optimization Algorithms}},
+	author={Schulman, John and Wolski, Filip and Dhariwal, Prafulla and Radford, Alec and Klimov, Oleg},
+	journal={arXiv preprint arXiv:1707.06347},
+	year={2017}
+}
+
+@inproceedings{Quigley2009ROSAO,
+	title={{ROS: An Open-Source Robot Operating System}},
+	author={Morgan Quigley},
+	booktitle={ICRA 2009},
+	year={2009}
+}
+
+@article{Ray2019,
+    author = {Ray, Alex and Achiam, Joshua and Amodei, Dario},
+    title= {{{{Benchmarking Safe Exploration in Deep Reinforcement Learning}}}},
+    year = {2019}
+}
+
+@inproceedings{kalashnikov2018scalable,
+  title={{Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation}},
+  author={Kalashnikov, Dmitry and Irpan, Alex and Pastor, Peter and Ibarz, Julian and Herzog, Alexander and Jang, Eric and Quillen, Deirdre and Holly, Ethan and Kalakrishnan, Mrinal and Vanhoucke, Vincent and others},
+  booktitle={Conference on Robot Learning},
+  pages={651--673},
+  year={2018},
+  organization={PMLR}
+}
+
+@article{Vinyals2019,
+author = {Vinyals, Oriol and Babuschkin, Igor and Czarnecki, Wojciech M. and Mathieu, Micha{\"{e}}l and Dudzik, Andrew and Chung, Junyoung and Choi, David H. and Powell, Richard and Ewalds, Timo and Georgiev, Petko and Oh, Junhyuk and Horgan, Dan and Kroiss, Manuel and Danihelka, Ivo and Huang, Aja and Sifre, Laurent and Cai, Trevor and Agapiou, John P. and Jaderberg, Max and Vezhnevets, Alexander S. and Leblond, R{\'{e}}mi and Pohlen, Tobias and Dalibard, Valentin and Budden, David and Sulsky, Yury and Molloy, James and Paine, Tom L. and Gulcehre, Caglar and Wang, Ziyu and Pfaff, Tobias and Wu, Yuhuai and Ring, Roman and Yogatama, Dani and W{\"{u}}nsch, Dario and McKinney, Katrina and Smith, Oliver and Schaul, Tom and Lillicrap, Timothy and Kavukcuoglu, Koray and Hassabis, Demis and Apps, Chris and Silver, David},
+doi = {10.1038/s41586-019-1724-z},
+issn = {14764687},
+journal = {Nature},
+mendeley-groups = {pursuit-evasion-old},
+number = {7782},
+pages = {350--354},
+pmid = {31666705},
+publisher = {Springer US},
+title = {{{{Grandmaster Level in Starcraft II Using Multi-Agent Reinforcement Learning}}}},
+url = {http://dx.doi.org/10.1038/s41586-019-1724-z},
+volume = {575},
+year = {2019}
+}
+
+@article{Ye2020a,
+arxivId = {2011.12692},
+author = {Ye, Deheng and Chen, Guibin and Zhang, Wen and Chen, Sheng and Yuan, Bo and Liu, Bo and Chen, Jia and Liu, Zhao and Qiu, Fuhao and Yu, Hongsheng and Yin, Yinyuting and Shi, Bei and Wang, Liang and Shi, Tengfei and Fu, Qiang and Yang, Wei and Huang, Lanxiao and Liu, Wei},
+eprint = {2011.12692},
+issn = {23318422},
+journal = {arXiv},
+mendeley-groups = {XPlane},
+number = {NeurIPS},
+pages = {1--15},
+title = {{{{Towards Playing Full MOBA Games with Deep Reinforcement Learning}}}},
+year = {2020}
+}
+
+@article{SpinningUp2018,
+    author = {Achiam, Joshua},
+    title= {{{{Spinning Up in Deep Reinforcement Learning}}}},
+    year = {2018}
+}
+
+
+@inproceedings{fujimoto2018addressing,
+  title={{Addressing Function Approximation Error in Actor-Critic Methods}},
+  author={Fujimoto, Scott and Hoof, Herke and Meger, David},
+  booktitle={International conference on machine learning},
+  pages={1587--1596},
+  year={2018},
+  organization={PMLR}
+}
+
+@article{lillicrap2015continuous,
+  title={{Continuous Control with Deep Reinforcement Learning}},
+  author={Lillicrap, Timothy P and Hunt, Jonathan J and Pritzel, Alexander and Heess, Nicolas and Erez, Tom and Tassa, Yuval and Silver, David and Wierstra, Daan},
+  journal={arXiv preprint arXiv:1509.02971},
+  year={2015}
+}
+
+@article{Bravo2020APG,
+  title={{A Pursuit-Evasion Game Between Two Identical Differential Drive Robots}},
+  author={Luis Bravo and Ubaldo Ruiz and Rafael Murrieta-Cid},
+  journal={J. Frankl. Inst.},
+  year={2020},
+  volume={357},
+  pages={5773-5808}
+}
+
+@INPROCEEDINGS{7524935,  author={Nguyen, Quan and Sreenath, Koushil},  booktitle={2016 American Control Conference (ACC)},   title={Exponential Control Barrier Functions for enforcing high relative-degree safety-critical constraints},   year={2016},  volume={},  number={},  pages={322-328},  doi={10.1109/ACC.2016.7524935}}
+
+@article{Mayya2020,
+author = {Mayya, Siddharth and Notomista, Gennaro},
+journal = {IEEE Control Systems Magazine},
+number = {February},
+pages = {26--44},
+title = {{{{The Robotarium}}}},
+volume = {40},
+year = {2020}
+}
+
+@inproceedings{wu2019hierarchical,
+  title={{Hierarchical Macro Strategy Model for Moba Game Ai}},
+  author={Wu, Bin},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={33},
+  number={01},
+  pages={1206--1213},
+  year={2019}
+}
+
+@article{reed2022generalist,
+  title={{A Generalist Agent}},
+  author={Reed, Scott and Zolna, Konrad and Parisotto, Emilio and Colmenarejo, Sergio Gomez and Novikov, Alexander and Barth-Maron, Gabriel and Gimenez, Mai and Sulsky, Yury and Kay, Jackie and Springenberg, Jost Tobias and others},
+  journal={arXiv preprint arXiv:2205.06175},
+  year={2022}
+}
+
+@article{Bharadhwaj2020ConservativeExploration,
+    title= {{{{Conservative Safety Critics for Exploration}}}},
+    year = {2020},
+    journal = {arXiv preprint arXiv:2010.14497},
+    author = {Bharadhwaj, Homanga and Kumar, Aviral and Rhinehart, Nicholas and Levine, Sergey and Shkurti, Florian and Garg, Animesh}
+}
+
+@inproceedings{Alshiekh2018SafeShielding,
+    title= {{{{Safe Reinforcement Learning Via Shielding}}}},
+    year = {2018},
+    booktitle = {AAAI Conference on Artificial Intelligence},
+    author = {Alshiekh, M and Bloem, R and Ehlers, R and K{\"{o}}nighofer, B and Niekum, S and Topcu, U},
+    pages = {2669--2678},
+    url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060483153&partnerID=40&md5=363fbbc73363b5b7f2c26e17fb7fc311}
+}
+
+@article{Ji2021TowardsLearning,
+    title= {{{{Towards Safe Control of Continuum Manipulator Using Shielded Multiagent Reinforcement Learning}}}},
+    year = {2021},
+    journal = {IEEE Robotics and Automation Letters},
+    author = {Ji, Guanglin and Yan, Junyan and Du, Jingxin and Yan, Wanquan and Chen, Jibiao and Lu, Yongkang and Rojas, Juan and Cheng, Shing Shin},
+    number = {4},
+    pages = {7461--7468},
+    volume = {6},
+    publisher = {IEEE},
+    doi = {10.1109/LRA.2021.3097660},
+    issn = {23773766},
+    arxivId = {2106.07892},
+    keywords = {Reinforcement learning, and learning for soft robots, control, medical robots and systems, model learning for control, modeling, robust/adaptive control}
+}
+
+
+@inproceedings{2e9d79ea71754e94b5e1c959d67cabbc,
+title = "Reachability-Based Safe Learning with Gaussian Processes",
+abstract = "Reinforcement learning for robotic applications faces the challenge of constraint satisfaction, which currently impedes its application to safety critical systems. Recent approaches successfully introduce safety based on reachability analysis, determining a safe region of the state space where the system can operate. However, overly constraining the freedom of the system can negatively affect performance, while attempting to learn less conservative safety constraints might fail to preserve safety if the learned constraints are inaccurate. We propose a novel method that uses a principled approach to learn the system's unknown dynamics based on a Gaussian process model and iteratively approximates the maximal safe set. A modified control strategy based on real-time model validation preserves safety under weaker conditions than current approaches. Our framework further incorporates safety into the reinforcement learning performance metric, allowing a better integration of safety and learning. We demonstrate our algorithm on simulations of a cart-pole system and on an experimental quadrotor application and show how our proposed scheme succeeds in preserving safety where current approaches fail to avoid an unsafe condition.",
+author = "Akametalu, {Anayo K.} and Shahab Kaynama and Fisac, {Jaime F.} and Zeilinger, {Melanie N.} and Gillula, {Jeremy H.} and Tomlin, {Claire J.}",
+note = "Publisher Copyright: {\textcopyright} 2014 IEEE.; 2014 53rd IEEE Annual Conference on Decision and Control, CDC 2014 ; Conference date: 15-12-2014 Through 17-12-2014",
+year = "2014",
+doi = "10.1109/CDC.2014.7039601",
+language = "English (US)",
+series = "Proceedings of the IEEE Conference on Decision and Control",
+publisher = "Institute of Electrical and Electronics Engineers Inc.",
+number = "February",
+pages = "1424--1431",
+booktitle = "53rd IEEE Conference on Decision and Control,CDC 2014",
+address = "United States",
+edition = "February",
+}
+
+@article{2020Learning,
+  title={{Learning-Based Model Predictive Control: Toward Safe Learning in Control}},
+  author={ Hewing, L.  and  Wabersich, K. P.  and  Menner, M.  and  Zeilinger, M. N. },
+  journal={Annual Review of Control Robotics and Autonomous Systems},
+  volume={3},
+  number={1},
+  year={2020},
+}
+
+@article{Machida2021ConsensusBasedCB,
+  title={{Consensus-Based Control Barrier Function for Swarm}},
+  author={Manao Machida and Masumi Ichien},
+  journal={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2021},
+  pages={8623-8628}
+}
+
+@article{Haddadin2012OnMR,
+  title={{On Making Robots Understand Safety: Embedding Injury Knowledge Into Control}},
+  author={Sami Haddadin and Simon Haddadin and Augusto Khoury and Tim Rokahr and Sven Parusel and Rainer Burgkart and Antonio Bicchi and Alin O. Albu-Sch{\"a}ffer},
+  journal={The International Journal of Robotics Research},
+  year={2012},
+  volume={31},
+  pages={1578 - 1602}
+}
+
+@inproceedings{reddy2020learning,
+  title={{Learning Human Objectives By Evaluating Hypothetical Behavior}},
+  author={Reddy, Siddharth and Dragan, Anca and Levine, Sergey and Legg, Shane and Leike, Jan},
+  booktitle={International Conference on Machine Learning},
+  pages={8020--8029},
+  year={2020},
+  organization={PMLR}
+}
+
+@inproceedings{bastani2021safe,
+  title={{Safe Reinforcement Learning Via Statistical Model Predictive Shielding.}},
+  author={Bastani, Osbert and Li, Shuo and Xu, Anton},
+  booktitle={Robotics: Science and Systems},
+  year={2021}
+}
+
+@article{selim2022safe,
+  title={{Safe Reinforcement Learning Using Black-Box Reachability Analysis}},
+  author={Selim, Mahmoud and Alanwar, Amr and Kousik, Shreyas and Gao, Grace and Pavone, Marco and Johansson, Karl H},
+  journal={arXiv preprint arXiv:2204.07417},
+  year={2022}
+}
+
+@article{kim2022efficient,
+  title={{Efficient Off-Policy Safe Reinforcement Learning Using Trust Region Conditional Value At Risk}},
+  author={Kim, Dohyeong and Oh, Songhwai},
+  journal={IEEE Robotics and Automation Letters},
+  volume={7},
+  number={3},
+  pages={7644--7651},
+  year={2022},
+  publisher={IEEE}
+}
+
+@article{kim2022trc,
+  title={{TRC: Trust Region Conditional Value at Risk for Safe Reinforcement Learning}},
+  author={Kim, Dohyeong and Oh, Songhwai},
+  journal={IEEE Robotics and Automation Letters},
+  volume={7},
+  number={2},
+  pages={2621--2628},
+  year={2022},
+  publisher={IEEE}
+}
+
+@article{Qin2022Sablas:Systems,
+    title= {{{{Sablas: Learning Safe Control for Black-Box Dynamical Systems}}}},
+    year = {2022},
+    journal = {IEEE Robotics and Automation Letters},
+    author = {Qin, Zengyi and Sun, Dawei and Fan, Chuchu},
+    number = {2},
+    pages = {1928--1935},
+    volume = {7},
+    publisher = {IEEE},
+    doi = {10.1109/LRA.2022.3142743},
+    issn = {23773766},
+    arxivId = {2201.01918},
+    keywords = {Aerospace electronics, Control systems, Costs, Dynamical systems, Safety, Task analysis, Training}
+}
+
+@article{Cui2022LearningNavigation,
+    title= {{{{Learning Observation-Based Certifiable Safe Policy for Decentralized Multi-Robot Navigation}}}},
+    year = {2022},
+    journal = {Proceedings - IEEE International Conference on Robotics and Automation},
+    author = {Cui, Yuxiang and Lin, Longzhong and Huang, Xiaolong and Zhang, Dongkun and Wang, Yunkai and Jing, Wei and Chen, Junbo and Xiong, Rong and Wang, Yue},
+    pages = {5518--5524},
+    publisher = {IEEE},
+    isbn = {9781728196817},
+    doi = {10.1109/ICRA46639.2022.9811950},
+    issn = {10504729},
+    arxivId = {2109.07760}
+}
+
+@inproceedings{zeng2021safety,
+  title={{Safety-Critical Model Predictive Control with Discrete-Time Control Barrier Function}},
+  author={Zeng, Jun and Zhang, Bike and Sreenath, Koushil},
+  booktitle={2021 American Control Conference (ACC)},
+  pages={3882--3889},
+  year={2021},
+  organization={IEEE}
+}
+
+@inproceedings{zeng2021enhancing,
+  title={{Enhancing Feasibility and Safety of Nonlinear Model Predictive Control with Discrete-Time Control Barrier Functions}},
+  author={Zeng, Jun and Li, Zhongyu and Sreenath, Koushil},
+  booktitle={2021 60th IEEE Conference on Decision and Control (CDC)},
+  pages={6137--6144},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{machado2018revisiting,
+  title={{Revisiting the Arcade Learning Environment: Evaluation Protocols and Open Problems for General Agents}},
+  author={Machado, Marlos C and Bellemare, Marc G and Talvitie, Erik and Veness, Joel and Hausknecht, Matthew and Bowling, Michael},
+  journal={Journal of Artificial Intelligence Research},
+  volume={61},
+  pages={523--562},
+  year={2018}
+}
+
+@inproceedings{todorov2012mujoco,
+  title={{Mujoco: A Physics Engine for Model-Based Control}},
+  author={Todorov, Emanuel and Erez, Tom and Tassa, Yuval},
+  booktitle={2012 IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  pages={5026--5033},
+  year={2012},
+  organization={IEEE},
+  doi={10.1109/IROS.2012.6386109}
+}
+
+@article{degris2012off,
+  title={{Off-Policy Actor-Critic}},
+  author={Degris, Thomas and White, Martha and Sutton, Richard S},
+  journal={arXiv preprint arXiv:1205.4839},
+  year={2012}
+}
+
+
+@article{watkins1992q,
+  title={{Q-Learning}},
+  author={Watkins, Christopher JCH and Dayan, Peter},
+  journal={Machine learning},
+  volume={8},
+  number={3},
+  pages={279--292},
+  year={1992},
+  publisher={Springer}
+}
+
+@article{mnih2013playing,
+  title={{Playing Atari with Deep Reinforcement Learning}},
+  author={Mnih, Volodymyr and Kavukcuoglu, Koray and Silver, David and Graves, Alex and Antonoglou, Ioannis and Wierstra, Daan and Riedmiller, Martin},
+  journal={arXiv preprint arXiv:1312.5602},
+  year={2013}
+}
+
+@article{tassa2018deepmind,
+  title={{Deepmind Control Suite}},
+  author={Tassa, Yuval and Doron, Yotam and Muldal, Alistair and Erez, Tom and Li, Yazhe and Casas, Diego de Las and Budden, David and Abdolmaleki, Abbas and Merel, Josh and Lefrancq, Andrew and others},
+  journal={arXiv preprint arXiv:1801.00690},
+  year={2018}
+}
+
+@article{zhang2019asynchronous,
+  title={{Asynchronous Methods for Model-Based Reinforcement Learning}},
+  author={Zhang, Yunzhi and Clavera, Ignasi and Tsai, Boren and Abbeel, Pieter},
+  journal={arXiv preprint arXiv:1910.12453},
+  year={2019}
+}
+
+@article{beer2015locally,
+  title={{Locally Lipschitz Functions, Cofinal Completeness, and UC Spaces}},
+  author={Beer, Gerald and Garrido, M Isabel},
+  journal={Journal of Mathematical Analysis and Applications},
+  volume={428},
+  number={2},
+  pages={804--816},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@book{nesterov2018lectures,
+  title={{Lectures on Convex Optimization}},
+  author={Nesterov, Yurii and others},
+  volume={137},
+  year={2018},
+  publisher={Springer}
+}
+
+@inproceedings{wu2015safety,
+  title={{Safety-Critical and Constrained Geometric Control Synthesis Using Control Lyapunov and Control Barrier Functions for Systems Evolving on Manifolds}},
+  author={Wu, Guofan and Sreenath, Koushil},
+  booktitle={2015 American Control Conference (ACC)},
+  pages={2038--2044},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{hsu2015control,
+  title={{Control Barrier Function Based Quadratic Programs with Application to Bipedal Robotic Walking}},
+  author={Hsu, Shao-Chen and Xu, Xiangru and Ames, Aaron D},
+  booktitle={2015 American Control Conference (ACC)},
+  pages={4542--4548},
+  year={2015},
+  organization={IEEE}
+}
+
+@book{gantmacher2005applications,
+  title={{Applications of the Theory of Matrices}},
+  author={Gantmacher, Feliks Rouminovich and Brenner, Joel Lee},
+  year={2005},
+  publisher={Courier Corporation}
+}
+
+@inproceedings{Qiao2008ApplicationAvoidance,
+    title= {{{{Application of Reinforcement Learning Based on Neural Network to Dynamic Obstacle Avoidance}}}},
+    year = {2008},
+    booktitle = {IEEE International Conference on Information and Automation (ICIA)},
+    author = {Qiao, Junfei and Hou, Zhanjun and Ruan, Xiaogang},
+    pages = {784--788},
+    publisher = {IEEE},
+    isbn = {9781424421848},
+    doi = {10.1109/ICINFA.2008.4608104}
+}
+
+@article{maoudj2020optimal,
+  title={{Optimal Path Planning Approach Based on Q-Learning Algorithm for Mobile Robots}},
+  author={Maoudj, Abderraouf and Hentout, Abdelfetah},
+  journal={Applied Soft Computing},
+  volume={97},
+  pages={106796},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{rudenko2020thor,
+  title={{Thor: Human-Robot Navigation Data Collection and Accurate Motion Trajectories Dataset}},
+  author={Rudenko, Andrey and Kucner, Tomasz P and Swaminathan, Chittaranjan S and Chadalavada, Ravi T and Arras, Kai O and Lilienthal, Achim J},
+  journal={IEEE Robotics and Automation Letters},
+  volume={5},
+  number={2},
+  pages={676--682},
+  year={2020},
+  publisher={IEEE}
+}
+
+@article{tai2016mobile,
+  title={{Mobile Robots Exploration Through Cnn-Based Reinforcement Learning}},
+  author={Tai, Lei and Liu, Ming},
+  journal={Robotics and biomimetics},
+  volume={3},
+  number={1},
+  pages={1--8},
+  year={2016},
+  publisher={SpringerOpen}
+}
+
+@article{barron2016deep,
+  title={{Deep Reinforcement Learning in A 3-D Blockworld Environment}},
+  author={Barron, Trevor and Whitehead, Matthew and Yeung, Alan},
+  journal={Deep Reinforcement Learning: Frontiers and Challenges, IJCAI},
+  volume={2016},
+  pages={16},
+  year={2016}
+}
+
+@inproceedings{zhang2017deep,
+  title={{Deep Reinforcement Learning with Successor Features for Navigation Across Similar Environments}},
+  author={Zhang, Jingwei and Springenberg, Jost Tobias and Boedecker, Joschka and Burgard, Wolfram},
+  booktitle={2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={2371--2378},
+  year={2017},
+  organization={IEEE}
+}
+
+@article{niroui2019deep,
+  title={{Deep Reinforcement Learning Robot for Search and Rescue Applications: Exploration in Unknown Cluttered Environments}},
+  author={Niroui, Farzad and Zhang, Kaicheng and Kashino, Zendai and Nejat, Goldie},
+  journal={IEEE Robotics and Automation Letters},
+  volume={4},
+  number={2},
+  pages={610--617},
+  year={2019},
+  publisher={IEEE}
+}
+
+@article{mirowski2018learning,
+  title={{Learning to Navigate in Cities Without A Map}},
+  author={Mirowski, Piotr and Grimes, Matt and Malinowski, Mateusz and Hermann, Karl Moritz and Anderson, Keith and Teplyashin, Denis and Simonyan, Karen and Zisserman, Andrew and Hadsell, Raia and others},
+  journal={Advances in neural information processing systems},
+  volume={31},
+  year={2018}
+}
+
+@article{li2018role,
+  title={{Role Playing Learning for Socially Concomitant Mobile Robot Navigation}},
+  author={Li, Mingming and Jiang, Rui and Ge, Shuzhi Sam and Lee, Tong Heng},
+  journal={CAAI Transactions on Intelligence Technology},
+  volume={3},
+  number={1},
+  pages={49--58},
+  year={2018},
+  publisher={Wiley Online Library}
+}
+
+@article{dorigo2019ant,
+  title={{Ant Colony Optimization: Overview and Recent Advances}},
+  author={Dorigo, Marco and St{\"u}tzle, Thomas},
+  journal={Handbook of metaheuristics},
+  pages={311--351},
+  year={2019},
+  publisher={Springer}
+}
+
+@inproceedings{li2012efficient,
+  title={{An Efficient Improved Artificial Potential Field Based Regression Search Method for Robot Path Planning}},
+  author={Li, Guanghui and Yamashita, Atsushi and Asama, Hajime and Tamura, Yusuke},
+  booktitle={2012 IEEE International Conference on Mechatronics and Automation},
+  pages={1227--1232},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{zeng2019novel,
+  title={{A Novel Robust Lane Change Trajectory Planning Method for Autonomous Vehicle}},
+  author={Zeng, Dequan and Yu, Zhuoping and Xiong, Lu and Zhao, Junqiao and Zhang, Peizhi and Li, Zhiqiang and Fu, Zhiqiang and Yao, Jie and Zhou, Yi},
+  booktitle={2019 IEEE Intelligent Vehicles Symposium (IV)},
+  pages={486--493},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{王树凤2018基于改进人工势场法的智能车辆超车路径规划研究,
+  title={{基于改进人工势场法的智能车辆超车路径规划研究}},
+  author={王树凤 and 张钧鑫 and 刘宗锋},
+  journal={汽车技术},
+  number={3},
+  pages={5--9},
+  year={2018}
+}
+
+@article{duchovn2014path,
+  title={{Path Planning with Modified A Star Algorithm for A Mobile Robot}},
+  author={Ducho{\v{n}}, Franti{\v{s}}ek and Babinec, Andrej and Kajan, Martin and Be{\v{n}}o, Peter and Florek, Martin and Fico, Tom{\'a}{\v{s}} and Juri{\v{s}}ica, Ladislav},
+  journal={Procedia Engineering},
+  volume={96},
+  pages={59--69},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{fox1997dynamic,
+  title={{The Dynamic Window Approach to Collision Avoidance}},
+  author={Fox, Dieter and Burgard, Wolfram and Thrun, Sebastian},
+  journal={IEEE Robotics and Automation Magazine},
+  volume={4},
+  number={1},
+  pages={23--33},
+  year={1997},
+  publisher={IEEE}
+}
+
+@article{赵明2020基于改进人工势场法的移动机器人路径规划方法,
+  title={{基于改进人工势场法的移动机器人路径规划方法}},
+  author={赵明 and 郑泽宇 and 么庆丰 and 潘怡君 and 刘智},
+  journal={计算机应用研究},
+  year={2020}
+}
+
+
+
+@article{郭银景2020基于人工势场法的,
+  title={{基于人工势场法的 AUV 避障算法研究综述}},
+  author={郭银景 and 刘琦 and 鲍建康 and 徐锋 and 吕文红},
+  journal={计算机工程与应用},
+  volume={56},
+  number={4},
+  pages={16--23},
+  year={2020},
+  language = "zh"
+}
+
+@article{cite_label2 ,
+   title={{基于改进人工势场法的无人车路径规划算法}},
+   author={罗洁;王中训;潘康路;卢中原;刘言;},
+   authoraddress={烟台大学光电信息科学技术学院;},
+   journal={电子设计工程},
+   year={2022},
+   volume={30},
+   pages={90-94+99},
+   keywords={人工势场法;虚拟势场检测圆模型;lstm;路径规划;强化学习},
+   abstract={为了解决人工势场法的“最小值陷阱”问题以及传统路径规划算法在动态障碍物环境下的局限性，提出基于改进的人工势场法路径规划控制算法方案。在可调半径r的虚拟势场检测圆模型基础上，提前检测由障碍物斥力场形成的“最小值陷阱”，并建立无人车运动模型，结合基于lstm改进的强化学习算法调节虚拟势场检测圆半径r来实现针对动态障碍物的有效规避，实现了无人车在半封闭的动态障碍物环境下在线无碰撞路径的规划。该算法的有效性和鲁棒性通过python仿真实验得到了验证。},
+   isbn/issn={1674-6236},
+   notes={61-1477/tn},
+   doi={10.14022/j.issn1674-6236.2022.17.019},
+   databaseprovider={cnki},
+}
+
+@article{feng2021collision,
+  title={{Collision Avoidance Method of Autonomous Vehicle Based on Improved Artificial Potential Field Algorithm}},
+  author={Feng, Song and Qian, Yubin and Wang, Yan},
+  journal={Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering},
+  volume={235},
+  number={14},
+  pages={3416--3430},
+  year={2021},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{孙辉辉2021移动机器人运动规划中的深度强化学习方法,
+  title={{移动机器人运动规划中的深度强化学习方法}},
+  author={孙辉辉 and 胡春鹤 and 张军国},
+  journal={控制与决策},
+  volume={36},
+  number={6},
+  pages={1281--1292},
+  year={2021}
+}
+
+@article{abed2016comparison,
+  title={{A Comparison Study of Cooperative Q-Learning Algorithms for Independent Learners}},
+  author={Abed-Alguni, Bilal H and Paul, David J and Chalup, Stephan K and Henskens, Frans A},
+  journal={Int. J. Artif. Intell},
+  volume={14},
+  number={1},
+  pages={71--93},
+  year={2016}
+}
+
+@article{sunehag2017value,
+  title={{Value-Decomposition Networks for Cooperative Multi-Agent Learning}},
+  author={Sunehag, Peter and Lever, Guy and Gruslys, Audrunas and Czarnecki, Wojciech Marian and Zambaldi, Vinicius and Jaderberg, Max and Lanctot, Marc and Sonnerat, Nicolas and Leibo, Joel Z and Tuyls, Karl and others},
+  journal={arXiv preprint arXiv:1706.05296},
+  year={2017}
+}
+
+@inproceedings{rashid2018qmix,
+  title={{Qmix: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning}},
+  author={Rashid, Tabish and Samvelyan, Mikayel and Schroeder, Christian and Farquhar, Gregory and Foerster, Jakob and Whiteson, Shimon},
+  booktitle={International conference on machine learning},
+  pages={4295--4304},
+  year={2018},
+  organization={PMLR}
+}
+
+@inproceedings{son2019qtran,
+  title={{Qtran: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning}},
+  author={Son, Kyunghwan and Kim, Daewoo and Kang, Wan Ju and Hostallero, David Earl and Yi, Yung},
+  booktitle={International conference on machine learning},
+  pages={5887--5896},
+  year={2019},
+  organization={PMLR}
+}
+
+@article{lowe2017multi,
+  title={{Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments}},
+  author={Lowe, Ryan and Wu, Yi I and Tamar, Aviv and Harb, Jean and Pieter Abbeel, OpenAI and Mordatch, Igor},
+  journal={Advances in neural information processing systems},
+  volume={30},
+  year={2017}
+}
+
+@article{ackermann2019reducing,
+  title={{Reducing Overestimation Bias in Multi-Agent Domains Using Double Centralized Critics}},
+  author={Ackermann, Johannes and Gabler, Volker and Osa, Takayuki and Sugiyama, Masashi},
+  journal={arXiv preprint arXiv:1910.01465},
+  year={2019}
+}
+
+@article{mnih2015human,
+  title={{Human-Level Control Through Deep Reinforcement Learning}},
+  author={Mnih, Volodymyr and Kavukcuoglu, Koray and Silver, David and Rusu, Andrei A and Veness, Joel and Bellemare, Marc G and Graves, Alex and Riedmiller, Martin and Fidjeland, Andreas K and Ostrovski, Georg and others},
+  journal={nature},
+  volume={518},
+  number={7540},
+  pages={529--533},
+  year={2015},
+  publisher={Nature Publishing Group}
+}
+
+@inproceedings{badia2020agent57,
+  title={{Agent57: Outperforming the Atari Human Benchmark}},
+  author={Badia, Adri{\`a} Puigdom{\`e}nech and Piot, Bilal and Kapturowski, Steven and Sprechmann, Pablo and Vitvitskyi, Alex and Guo, Zhaohan Daniel and Blundell, Charles},
+  booktitle={International Conference on Machine Learning},
+  pages={507--517},
+  year={2020},
+  organization={PMLR}
+}
+
+@article{vinyals2017starcraft,
+  title={{Starcraft Ii: A New Challenge for Reinforcement Learning}},
+  author={Vinyals, Oriol and Ewalds, Timo and Bartunov, Sergey and Georgiev, Petko and Vezhnevets, Alexander Sasha and Yeo, Michelle and Makhzani, Alireza and K{\"u}ttler, Heinrich and Agapiou, John and Schrittwieser, Julian and others},
+  journal={arXiv preprint arXiv:1708.04782},
+  year={2017}
+}
+
+@inproceedings{chen2019top,
+  title={{Top-K Off-Policy Correction for A REINFORCE Recommender System}},
+  author={Chen, Minmin and Beutel, Alex and Covington, Paul and Jain, Sagar and Belletti, Francois and Chi, Ed H},
+  booktitle={Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining},
+  pages={456--464},
+  year={2019}
+}
+@article{goodfellow2020generative,
+  title={{Generative Adversarial Networks}},
+  author={Goodfellow, Ian and Pouget-Abadie, Jean and Mirza, Mehdi and Xu, Bing and Warde-Farley, David and Ozair, Sherjil and Courville, Aaron and Bengio, Yoshua},
+  journal={Communications of the ACM},
+  volume={63},
+  number={11},
+  pages={139--144},
+  year={2020},
+  publisher={ACM New York, NY, USA}
+}
+@inproceedings{ye2020mastering,
+  title={{Mastering Complex Control in Moba Games with Deep Reinforcement Learning}},
+  author={Ye, Deheng and Liu, Zhao and Sun, Mingfei and Shi, Bei and Zhao, Peilin and Wu, Hao and Yu, Hongsheng and Yang, Shaojie and Wu, Xipeng and Guo, Qingwei and others},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={04},
+  pages={6672--6679},
+  year={2020}
+}
+
+
+@inproceedings{zou2019reinforcement,
+  title={{Reinforcement Learning to Optimize Long-Term User Engagement in Recommender Systems}},
+  author={Zou, Lixin and Xia, Long and Ding, Zhuoye and Song, Jiaxing and Liu, Weidong and Yin, Dawei},
+  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+  pages={2810--2818},
+  year={2019}
+}
+
+@article{lei2019interactive,
+  title={{Interactive Recommendation with User-Specific Deep Reinforcement Learning}},
+  author={Lei, Yu and Li, Wenjie},
+  journal={ACM Transactions on Knowledge Discovery from Data (TKDD)},
+  volume={13},
+  number={6},
+  pages={1--15},
+  year={2019},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{yu2019vision,
+  title={{Vision-Language Recommendation Via Attribute Augmented Multimodal Reinforcement Learning}},
+  author={Yu, Tong and Shen, Yilin and Zhang, Ruiyi and Zeng, Xiangyu and Jin, Hongxia},
+  booktitle={Proceedings of the 27th ACM International Conference on Multimedia},
+  pages={39--47},
+  year={2019}
+}
+
+@article{chen2016fast,
+  title={{Fast Reachable Set Approximations Via State Decoupling Disturbances}},
+  author={Chen, Mo and Herbert, Sylvia and Tomlin, Claire J},
+  journal={arXiv preprint arXiv:1603.05205},
+  year={2016}
+}
+
+@article{chow2017algorithm,
+  title={{Algorithm for Overcoming the Curse of Dimensionality for Time-Dependent Non-Convex Hamilton--Jacobi Equations Arising From Optimal Control and Differential Games Problems}},
+  author={Chow, Yat Tin and Darbon, J{\'e}r{\^o}me and Osher, Stanley and Yin, Wotao},
+  journal={Journal of Scientific Computing},
+  volume={73},
+  number={2},
+  pages={617--643},
+  year={2017},
+  publisher={Springer}
+}
+
+@article{barron1996hopf,
+  title={{Hopf--Lax-Type Formula Forut+ H (U, Du)= 0}},
+  author={Barron, EN and Jensen, R and Liu, W},
+  journal={Journal of differential equations},
+  volume={126},
+  number={1},
+  pages={48--61},
+  year={1996},
+  publisher={Elsevier}
+}
+
+@inproceedings{akametalu2014reachability,
+  title={{Reachability-Based Safe Learning with Gaussian Processes}},
+  author={Akametalu, Anayo K and Fisac, Jaime F and Gillula, Jeremy H and Kaynama, Shahab and Zeilinger, Melanie N and Tomlin, Claire J},
+  booktitle={53rd IEEE Conference on Decision and Control},
+  pages={1424--1431},
+  year={2014},
+  organization={IEEE}
+}
+
+@article{wu2018safe,
+  title={{Safe Economic Model Predictive Control of Nonlinear Systems}},
+  author={Wu, Zhe and Durand, Helen and Christofides, Panagiotis D},
+  journal={Systems and Control Letters},
+  volume={118},
+  pages={69--76},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{massera2017safe,
+  title={{Safe Optimization of Highway Traffic with Robust Model Predictive Control-Based Cooperative Adaptive Cruise Control}},
+  author={Massera Filho, Carlos and Terra, Marco H and Wolf, Denis F},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={18},
+  number={11},
+  pages={3193--3203},
+  year={2017},
+  publisher={IEEE}
+}
+
+@article{glotfelter2017nonsmooth,
+  title={{Nonsmooth Barrier Functions with Applications to Multi-Robot Systems}},
+  author={Glotfelter, Paul and Cort{\'e}s, Jorge and Egerstedt, Magnus},
+  journal={IEEE control systems letters},
+  volume={1},
+  number={2},
+  pages={310--315},
+  year={2017},
+  publisher={IEEE}
+}
