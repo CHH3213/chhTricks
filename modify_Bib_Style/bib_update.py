@@ -6,13 +6,13 @@ e_list = ['of', 'the', 'for', 'with', 'and', 'in', 'to', 'on', 'at']
 
 
 def new_str(x):
-    """将字符串中的单词（除去预先给定的单词列表）首字母大写
+    """将字符串中的所有单词（除去预先给定的单词列表）的首字母大写
 
     Args:
         x (_type_): 预处理字符串
 
     Returns:
-        _type_: 除给定单词之外单词首字母大写后的字符串
+        _type_: 除给定单词之外的所有单词首字母大写后的字符串
     """
     return ' '.join([a.title() if (not a in e_list and not a.isupper()) else a for a in x.split()])
 
